@@ -1,4 +1,4 @@
-# real-estate-app
+# realestate-app
 ![Screenshot (362)](https://user-images.githubusercontent.com/73616152/230607335-4ab400f3-7f96-4a8c-b948-c55c7b1c1ca6.png)
 ![Screenshot (363)](https://user-images.githubusercontent.com/73616152/230607345-71dcf2ae-1364-409f-b1c5-d86e4ea21612.png)
 ![Screenshot (364)](https://user-images.githubusercontent.com/73616152/230607347-1a86a85d-7cb1-4366-af10-bf10660b56c6.png)
